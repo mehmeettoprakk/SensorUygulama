@@ -1,0 +1,2 @@
+# SensorUygulama
+Sensor uygulamasi
